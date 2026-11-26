@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://josesalgado2004-collab.github.io/planta.jpg/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in josesalgado2004-collab/planta.jpg project"
+        ]
+    },
+    "items": []
+}
