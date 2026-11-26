@@ -7,5 +7,87 @@
             "All images loaded in josesalgado2004-collab/planta.jpg project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://josesalgado2004-collab.github.io/planta.jpg/images/FG47040_0001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "FG47040_0001"
+                ]
+            },
+            "height": 5442,
+            "width": 10276,
+            "items": [
+                {
+                    "id": "https://josesalgado2004-collab.github.io/planta.jpg/images/FG47040_0001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://josesalgado2004-collab.github.io/planta.jpg/images/FG47040_0001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://josesalgado2004-collab.github.io/planta.jpg/images/FG47040_0001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 322,
+                                                "height": 171
+                                            },
+                                            {
+                                                "width": 643,
+                                                "height": 341
+                                            },
+                                            {
+                                                "width": 1285,
+                                                "height": 681
+                                            },
+                                            {
+                                                "width": 2569,
+                                                "height": 1361
+                                            },
+                                            {
+                                                "width": 5138,
+                                                "height": 2721
+                                            },
+                                            {
+                                                "width": 10276,
+                                                "height": 5442
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 10276,
+                                        "@id": "https://josesalgado2004-collab.github.io/planta.jpg/images/FG47040_0001",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5442,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://josesalgado2004-collab.github.io/planta.jpg/images/FG47040_0001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
